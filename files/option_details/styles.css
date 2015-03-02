@@ -90,7 +90,7 @@
   width:200px;
   height:20px;
   font-size:20px;
-  color:#0099FF;
+  color:#FFFFFF;
 }
 #u7_img {
   position:absolute;
@@ -2400,14 +2400,14 @@
 #u182 {
   position:absolute;
   left:10px;
-  top:20px;
+  top:22px;
   width:410px;
   height:100px;
   font-family:'Broadway Regular', 'Broadway';
   font-weight:400;
   font-style:normal;
   font-size:72px;
-  color:#0099FF;
+  color:#C8B3B3;
 }
 #u182_img {
   position:absolute;
@@ -2425,7 +2425,7 @@
 }
 #u184 {
   position:absolute;
-  left:1306px;
+  left:1277px;
   top:10px;
   width:30px;
   height:30px;
@@ -2447,10 +2447,11 @@
 }
 #u186 {
   position:absolute;
-  left:1266px;
-  top:10px;
+  left:1227px;
+  top:12px;
   width:30px;
   height:30px;
+  color:#C8B3B3;
 }
 #u186_img {
   position:absolute;
@@ -2469,8 +2470,8 @@
 }
 #u188 {
   position:absolute;
-  left:1226px;
-  top:10px;
+  left:1174px;
+  top:12px;
   width:30px;
   height:30px;
 }
@@ -2491,30 +2492,30 @@
 }
 #u190 {
   position:absolute;
-  left:1186px;
-  top:10px;
-  width:30px;
+  left:1122px;
+  top:12px;
+  width:33px;
   height:30px;
 }
 #u190_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:30px;
+  width:33px;
   height:30px;
 }
 #u191 {
   position:absolute;
   left:2px;
   top:7px;
-  width:26px;
+  width:29px;
   visibility:hidden;
   word-wrap:break-word;
 }
 #u192 {
   position:absolute;
-  left:1150px;
-  top:10px;
+  left:1082px;
+  top:12px;
   width:30px;
   height:30px;
 }
@@ -2537,21 +2538,21 @@
   position:absolute;
   left:1152px;
   top:137px;
-  width:33px;
-  height:50px;
+  width:37px;
+  height:51px;
 }
 #u195_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:33px;
-  height:50px;
+  width:37px;
+  height:51px;
 }
 #u196 {
   position:absolute;
   left:2px;
-  top:17px;
-  width:29px;
+  top:18px;
+  width:33px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -2565,7 +2566,7 @@
   font-weight:700;
   font-style:normal;
   font-size:20px;
-  color:#0099FF;
+  color:#C8B3B3;
 }
 #u197_img {
   position:absolute;
@@ -2654,7 +2655,7 @@
   width:112px;
   height:20px;
   font-size:14px;
-  color:#0099FF;
+  color:#C8B3B3;
 }
 #u205_img {
   position:absolute;
@@ -2677,7 +2678,7 @@
   width:111px;
   height:20px;
   font-size:14px;
-  color:#0099FF;
+  color:#C8B3B3;
 }
 #u207_img {
   position:absolute;
@@ -2700,7 +2701,7 @@
   width:111px;
   height:20px;
   font-size:14px;
-  color:#0099FF;
+  color:#C8B3B3;
 }
 #u209_img {
   position:absolute;
@@ -2718,27 +2719,27 @@
 }
 #u211 {
   position:absolute;
-  left:22px;
-  top:132px;
-  width:220px;
-  height:42px;
-  font-family:'Bell MT Bold', 'Bell MT';
+  left:76px;
+  top:137px;
+  width:228px;
+  height:98px;
+  font-family:'MV Boli Bold', 'MV Boli';
   font-weight:700;
   font-style:normal;
-  font-size:36px;
-  color:#0099FF;
+  font-size:48px;
+  color:#C8B3B3;
 }
 #u211_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:220px;
-  height:42px;
+  width:228px;
+  height:98px;
 }
 #u212 {
   position:absolute;
   left:0px;
   top:0px;
-  width:220px;
+  width:228px;
   word-wrap:break-word;
 }

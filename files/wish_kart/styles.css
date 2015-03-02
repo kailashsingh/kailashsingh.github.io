@@ -157,14 +157,14 @@
 #u12 {
   position:absolute;
   left:12px;
-  top:30px;
+  top:32px;
   width:410px;
   height:100px;
   font-family:'Broadway Regular', 'Broadway';
   font-weight:400;
   font-style:normal;
   font-size:72px;
-  color:#0099FF;
+  color:#C8B3B3;
 }
 #u12_img {
   position:absolute;
@@ -182,7 +182,7 @@
 }
 #u14 {
   position:absolute;
-  left:1308px;
+  left:1279px;
   top:20px;
   width:30px;
   height:30px;
@@ -204,10 +204,11 @@
 }
 #u16 {
   position:absolute;
-  left:1268px;
-  top:20px;
+  left:1229px;
+  top:22px;
   width:30px;
   height:30px;
+  color:#C8B3B3;
 }
 #u16_img {
   position:absolute;
@@ -226,8 +227,8 @@
 }
 #u18 {
   position:absolute;
-  left:1228px;
-  top:20px;
+  left:1176px;
+  top:22px;
   width:30px;
   height:30px;
 }
@@ -248,30 +249,30 @@
 }
 #u20 {
   position:absolute;
-  left:1188px;
-  top:20px;
-  width:30px;
+  left:1124px;
+  top:22px;
+  width:33px;
   height:30px;
 }
 #u20_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:30px;
+  width:33px;
   height:30px;
 }
 #u21 {
   position:absolute;
   left:2px;
   top:7px;
-  width:26px;
+  width:29px;
   visibility:hidden;
   word-wrap:break-word;
 }
 #u22 {
   position:absolute;
-  left:1152px;
-  top:20px;
+  left:1084px;
+  top:22px;
   width:30px;
   height:30px;
 }
@@ -294,21 +295,21 @@
   position:absolute;
   left:1160px;
   top:140px;
-  width:33px;
-  height:50px;
+  width:37px;
+  height:51px;
 }
 #u25_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:33px;
-  height:50px;
+  width:37px;
+  height:51px;
 }
 #u26 {
   position:absolute;
   left:2px;
-  top:17px;
-  width:29px;
+  top:18px;
+  width:33px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -322,7 +323,7 @@
   font-weight:700;
   font-style:normal;
   font-size:20px;
-  color:#0099FF;
+  color:#C8B3B3;
 }
 #u27_img {
   position:absolute;
@@ -411,7 +412,7 @@
   width:112px;
   height:20px;
   font-size:14px;
-  color:#0099FF;
+  color:#C8B3B3;
 }
 #u35_img {
   position:absolute;
@@ -434,7 +435,7 @@
   width:111px;
   height:20px;
   font-size:14px;
-  color:#0099FF;
+  color:#C8B3B3;
 }
 #u37_img {
   position:absolute;
@@ -457,7 +458,7 @@
   width:111px;
   height:20px;
   font-size:14px;
-  color:#0099FF;
+  color:#C8B3B3;
 }
 #u39_img {
   position:absolute;
