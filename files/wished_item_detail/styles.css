@@ -56,6 +56,7 @@
   top:0px;
   width:510px;
   height:390px;
+  opacity:0.5;
   font-family:'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
@@ -84,7 +85,7 @@
   width:209px;
   height:19px;
   font-size:16px;
-  color:#FFFFFF;
+  color:#999999;
 }
 #u4_img {
   position:absolute;

@@ -71,7 +71,7 @@
   font-weight:400;
   font-style:normal;
   font-size:72px;
-  color:#C8B3B3;
+  color:#999999;
 }
 #u6_img {
   position:absolute;
@@ -279,8 +279,8 @@
 }
 #u24 {
   position:absolute;
-  left:324px;
-  top:134px;
+  left:338px;
+  top:123px;
   width:770px;
   height:420px;
   overflow:hidden;
@@ -1141,6 +1141,7 @@
   top:40px;
   width:720px;
   height:380px;
+  opacity:0.25;
   font-family:'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
@@ -1972,6 +1973,7 @@
   top:40px;
   width:720px;
   height:380px;
+  opacity:0.25;
   font-family:'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
@@ -2803,6 +2805,7 @@
   top:40px;
   width:720px;
   height:380px;
+  opacity:0.25;
   font-family:'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
@@ -3772,7 +3775,7 @@
   font-weight:700;
   font-style:normal;
   font-size:20px;
-  color:#C8B3B3;
+  color:#999999;
 }
 #u291_img {
   position:absolute;
@@ -3861,7 +3864,7 @@
   width:112px;
   height:16px;
   font-size:14px;
-  color:#C8B3B3;
+  color:#999999;
 }
 #u299_img {
   position:absolute;
@@ -3884,7 +3887,7 @@
   width:111px;
   height:16px;
   font-size:14px;
-  color:#C8B3B3;
+  color:#999999;
 }
 #u301_img {
   position:absolute;
@@ -3907,7 +3910,7 @@
   width:111px;
   height:16px;
   font-size:14px;
-  color:#C8B3B3;
+  color:#999999;
 }
 #u303_img {
   position:absolute;
@@ -4004,15 +4007,15 @@
 }
 #u311 {
   position:absolute;
-  left:10px;
-  top:134px;
+  left:17px;
+  top:301px;
   width:311px;
   height:49px;
   font-family:'MV Boli Bold', 'MV Boli';
   font-weight:700;
   font-style:normal;
   font-size:48px;
-  color:#C8B3B3;
+  color:#999999;
 }
 #u311_img {
   position:absolute;
